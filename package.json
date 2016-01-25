@@ -1,0 +1,22 @@
+{
+  "name": "gbt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazld/gbt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dazld/gbt/issues"
+  },
+  "homepage": "https://github.com/dazld/gbt#readme",
+  "description": "",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
