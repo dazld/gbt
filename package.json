@@ -17,6 +17,8 @@
   "homepage": "https://github.com/dazld/gbt#readme",
   "description": "",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.2",
+    "stream-combiner": "^0.2.2"
   }
 }
